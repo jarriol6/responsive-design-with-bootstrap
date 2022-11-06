@@ -1,2 +1,2 @@
-# responsive-design-with-bootstrap
-Example of Responsive Web Page with Bootstrap
+# Responsiv Design with Bootstrap
+Example of a responsive web page implemented with Bootstrap
